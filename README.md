@@ -1,2 +1,4 @@
-# algorithms
-Data structure and algorithm practice
+# Algorithm solutions
+
+Data structure and algorithm solutions in Ruby.
+
